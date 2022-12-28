@@ -1,0 +1,245 @@
+.p-Home.Flex1 {
+display: flex;
+justify-content: space-between;
+flex-direction: row;
+align-items: flex-start;
+height: ;
+margin-top: 42px;
+margin-right: 111px;
+margin-left: 111px;
+font-family: ;
+}
+.p-Home.Div1 {
+;
+}
+.p-Home.Div3 {
+padding-right: ;
+align-self: auto;
+}
+.p-Home.Flex3 {
+display: flex;
+justify-content: flex-start;
+column-gap: 40px;
+font-family: IBM Plex Sans;
+font-weight: 600;
+}
+.p-Home.Flex4 {
+display: flex;
+height: 100vh;
+margin-top: 30px;
+justify-content: space-between;
+align-items: center;
+color: #0e0e0e;
+column-gap: ;
+row-gap: ;
+border-color: #f6efef;
+flex-direction: row;
+margin-left: ;
+padding-left: ;
+}
+.p-Home.Div5 {
+height: 70%;
+width: 50%;
+font-family: IBM Plex Sans;
+font-weight: 700;
+font-size: 40px;
+text-align: left;
+margin-left: 111px;
+line-height: ;
+word-wrap: normal;
+margin-bottom: 5px;
+}
+.p-Home.Div6 {
+width: 500px;
+height: 600px;
+padding-right: 111px;
+margin-top: -40px;
+}
+.p-Home.Div13 {
+margin-top: 11px;
+width: ;
+height: ;
+padding-left: ;
+margin-left: -480px;
+margin-right: ;
+padding-right: 445px;
+}
+.p-Home.Image1 {
+cursor: pointer;
+}
+.p-Home.Link3 {
+margin-left: ;
+margin-right: ;
+}
+.p-Home.Link4 {
+;
+}
+.p-Home.Link5 {
+;
+}
+.p-Home.Link6 {
+;
+}
+.p-Home.Link7 {
+margin-right: ;
+padding-right: ;
+}
+.p-Home.Image2 {
+padding-left: ;
+margin-left: -20px;
+margin-right: ;
+overflow: visible;
+}
+.p-Home.TextBox12 {
+font-size: 75px;
+font-family: IBM Plex Sans;
+font-weight: 700;
+}
+.p-Home.TextBox13 {
+word-wrap: normal;
+width: ;
+align-self: auto;
+padding-left: ;
+padding-right: ;
+margin-left: ;
+background-clip: content-box;
+-webkit-background-clip: content-box;
+background-image: ;
+background-attachment: scroll;
+background-origin: padding-box;
+position: static;
+background-color: ;
+background-repeat: repeat;
+font-size: 75px;
+font-family: IBM Plex Sans;
+color: #080708ff;
+background-position-x: 1px;
+background-position-y: ;
+float: none;
+clear: none;
+outline-color: #150303;
+line-height: ;
+font-weight: 700;
+}
+.p-Home.TextBox14 {
+font-size: 22px;
+font-family: IBM Plex Sans;
+font-weight: 300;
+line-height: 150%;
+color: #666f;
+width: 80%;
+}
+.p-Home.Button1 {
+color: #080707;
+background-color: #f6f4f4;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 18px;
+border-radius: 0px;
+outline: none;
+font-weight: 700;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #f3f3f8;
+cursor: pointer;
+user-select: none;
+width: ;
+height: ;
+font-family: IBM Plex Sans;
+}
+.p-Home.Button2 {
+color: #fff;
+background-color: #080909;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 16px;
+border-radius: 0px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #0a0a0a;
+cursor: pointer;
+user-select: none;
+width: 20%;
+height: 50px;
+}
+.p-Home.Image4 {
+;
+}
+.p-Home.Button3 {
+color: #fff;
+background-color: #1890ff;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 20px;
+border-radius: 2px;
+outline: none;
+font-weight: 600;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #1890ff;
+cursor: pointer;
+user-select: none;
+font-family: IBM Plex Sans;
+}
+.p-Home.Image3 {
+width: 100%;
+height: 100%;
+align-self: auto;
+margin-top: -11px;
+padding-bottom: ;
+margin-bottom: ;
+padding-top: ;
+margin-left: ;
+margin-right: ;
+padding-right: ;
+}
+.p-Home.TextBox15 {
+align-self: auto;
+text-align: center;
+font-family: IBM Plex Sans;
+font-weight: italic;
+}
+.p-Home.Image5 {
+width: 122px;
+}
+.p-Home.Image6 {
+width: 123px;
+}
+.p-Home.Image7 {
+width: 123px;
+}
+.p-Home.Image8 {
+width: 123px;
+}
+@media screen and (max-width: 991px) {
+	.p-Home.Image3.bpt {
+align-self: auto;
+	}
+	.p-Home.Flex4.bpt {
+flex-direction: row;
+	}
+}
+@media screen and (max-width: 767px) {
+	.p-Home.Button3.bpt {
+position: static;
+	}
+	.p-Home.Flex4.bpt {
+flex-direction: row;
+	}
+}
+@media screen and (max-width: 478px) {
+	.p-Home.Flex4.bpt {
+flex-direction: row;
+	}
+}

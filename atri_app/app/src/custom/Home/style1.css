@@ -1,0 +1,143 @@
+.p-Home.TextBox13 {
+  background-image: linear-gradient(
+    108deg,
+    #b16cea 8%,
+    #ff5e69 40%,
+    #ff8a56 77%,
+    #ffa84b 91%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 75px;
+  word-spacing: -9px;
+  line-height: 112%;
+  padding-top: 2%;
+  font-weight: bolder;
+}
+
+.p-Home.TextBox12 {
+  font-size: 78px;
+  line-height: 110%;
+  word-spacing: -9px;
+}
+
+.p-Home.TextBox14 {
+  padding-top: 3%;
+  font-weight: 400;
+}
+
+.p-Home.Button1 {
+  margin: 5% 3%;
+  background-color: transparent;
+  border: none;
+}
+
+.p-Home.Button2 {
+  margin: 5% 0%;
+}
+
+.p-Home.Flex3 a {
+  text-decoration: none;
+  color: black;
+}
+.p-Home.Flex3 a:hover {
+  text-decoration: none;
+  color: rgb(111, 109, 109);
+}
+
+.p-Home.Image2 {
+  margin-left: -34px;
+}
+.p-Home.Image2:hover {
+  
+  transform: translate3d(15px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg);
+    transform-style: preserve-3d; 
+}
+
+.p-Home.Image4 {
+  margin-left: -20px;
+}
+
+.p-Home.Image4:hover {
+  
+  transform: translate3d(15px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg);
+    transform-style: preserve-3d;
+}
+
+.p-Home.Div13 {
+  margin-top: 90px;
+  width: 208%;
+  height: ;
+  padding-left: ;
+  margin-left: -586px;
+  margin-right: ;
+  padding-right: 440px;
+}
+
+.p-Home.Image6 {
+  width: 13%;
+    margin: 0% 5%;
+} 
+.p-Home.Image5 {
+  width: 13%;
+    margin: 0% 5%;
+} 
+.p-Home.Image7 {
+  width: 13%;
+    margin: 0% 5%;
+} 
+.p-Home.Image8 {
+  width: 13%;
+    margin: 0% 5%;
+} 
+
+.p-Home.TextBox15 {
+  align-self: auto;
+  text-align: center;
+  font-family: IBM Plex Sans;
+  font-weight: italic;
+  padding-bottom: 4%;
+  margin-right: 9%;
+}
+.p-Home.Div5 {
+margin-bottom: 38px;
+}
+
+
+.p-Home.Button3{
+margin: -6% 0%;
+user-select: none;
+width: 10%;
+display: block;
+height: 50px;
+position: absolute;
+    color: #fff;
+    background-color: #070808;
+    margin: -6% 0%;
+    padding-top: 7px;
+    padding-left: 15px;
+    padding-bottom: 8px;
+    padding-right: 15px;
+    font-size: 17px;
+    border-radius: 2px;
+    outline: none;
+    font-weight: 900;
+    text-align: center;
+    border-width: 1px;
+    border-style: solid;
+    /* border-color: #1890ff; */
+    cursor: pointer;
+    border: none;
+    
+}
+
+.p-Home.Button3:hover{
+  transform: translate(7px, 7px);
+}
+
+
+.p-Home.Button2{
+  transform: translate(7px, 7px);
+  background-image: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
+  border: none;
+}
